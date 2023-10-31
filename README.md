@@ -1,1 +1,1 @@
-# TrajectoryPlanning_SCP
+# Trajectory optimization using sequential convex programming
