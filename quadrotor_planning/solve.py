@@ -3,7 +3,7 @@ import cvxpy as cp
 import jax
 import jax.numpy as jnp
 from functools import partial
-import dccp
+# import dccp
 import matplotlib.pyplot as plt
 import dpilqr as dec
 
