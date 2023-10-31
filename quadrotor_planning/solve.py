@@ -6,7 +6,7 @@ from functools import partial
 # import dccp
 import matplotlib.pyplot as plt
 import dpilqr as dec
-
+"""This file is deprecated"""
 class MultiQuadSCP:
     def __init__(self, num_quads, num_waypoints, dt, kF, kM, g, x_init, x_end):
         self.num_quads = num_quads
